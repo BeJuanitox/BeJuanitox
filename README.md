@@ -1,5 +1,5 @@
 ## Hello World!
-### I'm Sebastian Morales
+### I'm Sebastian Morales.
 
 - 👨🏻‍💻 I’m currently studing Software Engineer.
 - 📝 I’m currently learning Angular and Java.
