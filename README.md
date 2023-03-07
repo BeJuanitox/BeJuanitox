@@ -1,4 +1,4 @@
-## Hello World!
+## Hi!
 ### I'm Sebastian Morales.
 
 - 👨🏻‍💻 I’m currently studing Software Engineer.
