@@ -1,4 +1,5 @@
-## Hi!
+## Greetings from Colombia!
+
 ### I'm Sebastian Morales.
 
 - 👨🏻‍💻 I’m currently studing Software Engineer.
