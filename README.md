@@ -1,4 +1,4 @@
-## Greetings from Colombia!
+<h1 align="center"> Greetings from Colombia! </h1>
 
 ### I'm Sebastian Morales.
 
