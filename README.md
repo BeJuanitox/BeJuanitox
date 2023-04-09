@@ -5,7 +5,7 @@
 - 👨🏻‍💻 I’m currently studing Software Engineer.
 - 👤 My resume: https://sebastian-morales.netlify.app/
 
-<hr><hr>
+<hr>
 
 ### Here you can see my stats
 
